@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hank0302&show_icons=true&theme=nord)
+
 <!--
 **hank0302/hank0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
