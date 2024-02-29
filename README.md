@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Welcome!&color=auto&height=200&section=header&fontSize=70)
 
-## Hi there, I'm Hank0302 👋
-I'm Kang Han, the Server Developer, have a passion for coding and learening new technologies
+## Hi there, I'm Khaniy 👋
+I'm a Server Developer, have a passion for coding and learening new technologies.
 <!-- <br> 📫 Email : kangh1596@gmail.com 
 <br> 📝 Blog  : khan03.tistory.com/
 <br> <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -34,17 +34,3 @@ I'm Kang Han, the Server Developer, have a passion for coding and learening new 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaniy&show_icons=true&theme=nord)
 
-<!--
-**hank0302/hank0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
