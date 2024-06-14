@@ -31,6 +31,7 @@ I'm a Server Developer, have a passion for coding and learening new technologies
 > <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 > <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 
+[![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
