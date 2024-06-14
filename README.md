@@ -31,6 +31,9 @@ I'm a Server Developer, have a passion for coding and learening new technologies
 > <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 > <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaniy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaniy&show_icons=true&) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaniy&)
