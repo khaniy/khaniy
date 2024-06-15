@@ -76,5 +76,5 @@ homebrew                 5 mins              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaniy&show_icons=true&theme=transparent&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaniy&theme=transparent&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-khaniys-projects.vercel.app/api?username=khaniy&show_icons=true&theme=transparent&include_all_commits=true) ![Top Langs](https://github-readme-stats-khaniys-projects.vercel.app/api/top-langs/?username=khaniy&theme=transparent&layout=compact)
 
