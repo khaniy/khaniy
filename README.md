@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=Welcome!&color=auto&height=200&section=header&fontSize=70)
-
 ## Hi there, I'm Khaniy 👋
 I'm a Server Developer, have a passion for coding and learening new technologies.
 <!-- <br> 📫 Email : kangh1596@gmail.com 
@@ -8,7 +6,7 @@ I'm a Server Developer, have a passion for coding and learening new technologies
 <br> <img src="https://img.shields.io/badge/Blog -222222?style=for-the-badge&logo=Tistory&logoColor=white">
 [hank0302's Blog](https://khan03.tistory.com/)
 -->
-## 🔥Stack 
+## Stack 
 
 **Programming Languages** <br>
  <img src="https://img.shields.io/badge/JAVA-E6522C?style=for-the-badge&logo=Java&logoColor=white">
@@ -26,7 +24,6 @@ I'm a Server Developer, have a passion for coding and learening new technologies
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 
 **Infra** <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
@@ -76,7 +73,7 @@ shaper-api-link          50 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <p>
-  <img height="180em" src="https://github-readme-stats-khaniys-projects.vercel.app/api?username=khaniy&show_icons=true&include_all_commits=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats-khaniys-projects.vercel.app/api/top-langs?username=khaniy&layout=compact&theme=dracula">
+  <img height="180em" src="https://github-readme-stats-khaniys-projects.vercel.app/api?username=khaniy&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats-khaniys-projects.vercel.app/api/top-langs?username=khaniy&layout=compact">
 </p>
 
