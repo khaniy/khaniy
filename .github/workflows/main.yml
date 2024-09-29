@@ -23,4 +23,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_PROJECTS: "False"
           COMMIT_MESSAGE: "[Update] - with Waka Readme"
