@@ -70,3 +70,4 @@ Bash                     9 mins              ░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats-khaniys-projects.vercel.app/api/top-langs?username=khaniy&layout=compact">
 </p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghan0302)](https://solved.ac/kanghan0302)
